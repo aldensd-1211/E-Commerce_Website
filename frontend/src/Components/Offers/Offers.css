@@ -3,7 +3,7 @@
   height: 65vh;
   display: flex;
   margin: auto;
-  padding: 0px 140px;
+  padding: 20px 140px;
   margin-bottom: 150px;
   background: linear-gradient(180deg, #93cad2, #e1ffea22 60%);
 }
@@ -17,7 +17,7 @@
 
 .offers-left h1 {
   color: #171717;
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 600;
 }
 
